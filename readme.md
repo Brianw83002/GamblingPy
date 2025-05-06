@@ -12,3 +12,8 @@
     pip3 install pillow
 
 use  __"--break-system-packages"__ if needed/in VM
+
+# To Run using python   
+    in terminal use: python home.py
+# To Run using python3
+    in terminal use: python home.py
